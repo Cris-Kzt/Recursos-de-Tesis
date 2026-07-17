@@ -8,7 +8,7 @@ Este repositorio contiene el código fuente, modelos 3D y documentación de un s
 
 <p align="center">
   <!-- Reemplaza el enlace de abajo por la ruta de tu foto real del prototipo -->
-  <img src="docs/Prototipo.jpeg" alt="Foto del Prototipo" width="600"/>
+  <img src="Prototipo.jpeg" alt="Foto del Prototipo" width="600"/>
 </p>
 
 ## 🚀 Características Principales
