@@ -56,7 +56,7 @@ A continuación se muestra el impacto de la implementación matemática del Filt
 
 <p align="center">
   <!-- Reemplaza el enlace por la gráfica de Kalman -->
-  <img src="docs/grafica_kalman_resultado.png" alt="Comparativa Filtro de Kalman" width="600"/>
+  <img src="Kalman_Resultados.png" alt="Comparativa Filtro de Kalman" width="600"/>
 </p>
 
 ## 📝 Referencias Principales
